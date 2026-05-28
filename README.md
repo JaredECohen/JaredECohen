@@ -1,6 +1,6 @@
 # Jared Cohen
 
-I build product-focused AI systems, decision tools, and full-stack applications that turn complex workflows into usable software.
+I build systematic trading and investment research systems — turning market data, fundamentals, and filings into structured, explainable analysis. My work pairs quantitative methods and agent orchestration with deterministic checks and operator visibility, delivered as full-stack software.
 
 [GitHub](https://github.com/JaredECohen) | [Email](mailto:jaredecohen17@gmail.com)
 
@@ -17,22 +17,22 @@ I build product-focused AI systems, decision tools, and full-stack applications 
 
 ## Technical Focus
 
-- AI-assisted products with deterministic fallbacks, evaluation paths, and operator visibility
-- Python backend systems built with FastAPI and data-heavy ingestion or orchestration workflows
-- Full-stack applications in React and TypeScript with pragmatic, product-minded UX
-- Decision-support tools in finance, workflow software, and vertical applications
-- Systems that combine retrieval, orchestration, and rules-based validation
+- Systematic trading and investment research: equity screening, factor models, valuation (DCF, comps), and scenario analysis
+- Market data and fundamentals pipelines pulling from sources like FMP, Alpha Vantage, SEC EDGAR, and FRED
+- Multi-agent research workflows with deterministic checks, evaluation paths, and operator visibility
+- Python backends built with FastAPI and data-heavy ingestion or orchestration workflows
+- Full-stack applications in React and TypeScript that make quantitative analysis legible to end users
 
 ## Current Focus
 
-- Agentic workflows with clear failure modes and graceful fallback behavior
-- Decision-support software that turns analysis into structured actions
-- Interfaces that make technically complex systems legible to end users
+- Agent-driven equity research that produces structured, lineage-tracked memos rather than static dashboards
+- Systematic strategies and portfolio construction grounded in reproducible, explainable analysis
+- Decision-support software that turns market analysis into structured, actionable output
 
 ## Working Style
 
-I like products that are grounded in real workflows, explainable under pressure, and engineered to move cleanly from prototype to operational software.
+I build investment and trading tools that are grounded in real research workflows, explainable under pressure, and engineered to move cleanly from prototype to operational software.
 
 ## Contact
 
-If you are building in AI, fintech, decision support, or internal workflow tooling, feel free to reach out at [jaredecohen17@gmail.com](mailto:jaredecohen17@gmail.com).
+If you are building in systematic trading, investment research, fintech, or decision-support tooling, feel free to reach out at [jaredecohen17@gmail.com](mailto:jaredecohen17@gmail.com).
