@@ -14,6 +14,10 @@ I build systematic trading and investment research systems — turning market da
 | [MTG Deck Builder](https://github.com/JaredECohen/mtg-deck-builder) | Product-oriented deckbuilding application that generates legal, explainable Magic: The Gathering decks from user constraints. Built around data ingestion, deterministic validation, and full-stack deck workshop flows. |
 | [Image Creation Pipeline](https://github.com/JaredECohen/image-generation-etsy-pipeline) | End-to-end image generation and merchandising system for research, generation, review, upscaling, and publishing. Designed as an operator control plane rather than a collection of disconnected scripts. |
 | [Earnings Call Analyzer](https://github.com/JaredECohen/earnings-call-LLM-analyzer) | Earnings transcript intelligence tool that converts quarterly call transcripts into structured analysis around performance, guidance, sentiment, and risk. |
+| [MarketMosaic](https://github.com/JaredECohen/stock-research-platform) | Multi-agent equity research platform: eight specialist agents under a PM orchestrator produce versioned investment memos with persistent DCF scenarios, semantic retrieval over filings and transcripts, and an explainable fundamentals scorecard across the S&P 500. |
+| Trading Strategies (private) | Automated trading platform on Interactive Brokers: scheduled paper strategies (0DTE short-vol, trend ensemble), a reusable backtest research engine with look-ahead guards, portfolio analytics, and cloud VM deployment with watchdog alerting. |
+| Card Market Intelligence (private) | Always-on trading-card market monitor that turns live eBay activity into emailed buy signals — two-model ML valuation (market nowcast band + intrinsic value) over a 174k-sale comp database, with fee-aware flip economics. |
+| Workout Tracker (private) | Native SwiftUI iOS strength-training app for logging workouts, tracking progressive overload, and reviewing training history. |
 
 ## Technical Focus
 
